@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Info()
+* Mingeun Kim (pr0v3rbs)
+* Security researcher in National Institute (2018.12 ~ current)
+* M.S Graduate School of Information Security (GSIS) at KAIST (2017.3 ~ 2019.2)
+* ESTsoft - ALYAC kernel driver engineer (2013.1 ~ 2015.12)
+* B.S Computer Science at Kyonggi University (2010.3 ~ 2017.2)
 
-You can use the [editor on GitHub](https://github.com/pr0v3rbs/pr0v3rbs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Pubs()
+* 2020
+  * FirmAE, (**Mingeun Kim**, Dongkwan Kim, Eunsoo Kim, Suryeon Kim, Yeongjin Jang, Yongdae Kim), ACSAC 2020
+* 2017
+  * Are you watching TV? Is it real? (Hack In Paris)
 
-### Markdown
+# Awards()
+* 2019
+  * ASUS - Hall of Fame
+* 2017
+  * Best Of the Best (BOB) 5th - Top 10
+* 2016
+  * ACM-ICPC Daejeon regional
+* 2015
+  * Google Codejam - Round 2 
+  * DEF CON OpenCTF - 7th Place
+* 2012
+  * ACM-ICPC Daejeon regional
+  * National Crypto Contest (Field 1 - Problem Solve) - 1st Place
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pr0v3rbs/pr0v3rbs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Bugs()
+* https://github.com/pr0v3rbs/CVE
