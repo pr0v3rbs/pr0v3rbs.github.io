@@ -2,7 +2,7 @@
 * Mingeun Kim (pr0v3rbs)
 * Security researcher @National Institute (2018.12 ~ current)
 * **M.S.**, *Graduate School of Information Security* @KAIST (2017.3 ~ 2019.2)
-* ALYAC kernel driver engineer @ESTsoft (2013.1 ~ 2015.12)
+* ALYac windows kernel driver engineer @ESTsoft (2013.1 ~ 2015.12)
 * **B.S.**, *Computer Science* @KGU (2010.3 ~ 2017.2)
 
 
