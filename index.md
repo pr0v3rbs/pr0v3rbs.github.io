@@ -7,10 +7,9 @@
 
 
 # Pubs()
-* 2020
-  * FirmAE, (**Mingeun Kim**, Dongkwan Kim, Eunsoo Kim, Suryeon Kim, Yeongjin Jang, Yongdae Kim), ACSAC 2020
-* 2017
-  * Are you watching TV? Is it real? (Hack In Paris)
+1. FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis, ACSAC2020 ([paper](https://syssec.kaist.ac.kr/pub/2020/kim_acsac2020.pdf))([github](https://github.com/pr0v3rbs/FirmAE))
+   - **Mingeun Kim**, Dongkwan Kim, Eunsoo Kim, Suryeon Kim, Yeongjin Jang, Yongdae Kim
+2. Are you watching TV? Is it real?, HIP17
 
 # Awards()
 * 2019
