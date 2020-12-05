@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pr0v3rbs.github.io/sitemap.xml
