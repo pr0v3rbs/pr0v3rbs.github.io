@@ -19,8 +19,8 @@
   * Best Of the Best (BOB) 5th - Top 10
 * 2016
   * ACM-ICPC Daejeon regional
+  * Google Codejam - Round 2
 * 2015
-  * Google Codejam - Round 2 
   * DEF CON OpenCTF - 7th Place
 * 2012
   * ACM-ICPC Daejeon regional
