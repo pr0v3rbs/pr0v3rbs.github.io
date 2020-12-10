@@ -19,12 +19,12 @@
 * 2019
   * ASUS - Hall of Fame
 * 2016
-  * ACM-ICPC Daejeon regional
+  * ACM-ICPC Daejeon regional - Encouragement Award
   * Google Codejam - Round 2
 * 2015
   * DEF CON OpenCTF - 7th Place
 * 2012
-  * ACM-ICPC Daejeon regional
+  * ACM-ICPC Daejeon regional - Encouragement Award
   * National Crypto Contest (Field 1 - Problem Solve) - 1st Place
 
 # Bugs()
