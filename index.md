@@ -13,6 +13,7 @@
 
 # Activities()
 1. Best Of the Best (BOB) 5th - BEST 10 (2016.7.1 ~ 2017.2.28)
+2. Nexon global internship 8th (2012.1.6 ~ 2012.2.21)
 
 # Awards()
 * 2019
