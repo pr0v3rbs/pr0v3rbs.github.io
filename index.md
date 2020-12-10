@@ -9,13 +9,14 @@
 # Pubs()
 1. FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis, ACSAC2020 ([paper](https://syssec.kaist.ac.kr/pub/2020/kim_acsac2020.pdf))([github](https://github.com/pr0v3rbs/FirmAE))
    - **Mingeun Kim**, Dongkwan Kim, Eunsoo Kim, Suryeon Kim, Yeongjin Jang, Yongdae Kim
-2. Are you watching TV? Is it real?, HIP17
+2. Are you watching TV now? Is it real?, HIP17
+
+# Activities()
+1. Best Of the Best (BOB) 5th - BEST 10 (2016.7.1 ~ 2017.2.28)
 
 # Awards()
 * 2019
   * ASUS - Hall of Fame
-* 2017
-  * Best Of the Best (BOB) 5th - Top 10
 * 2016
   * ACM-ICPC Daejeon regional
   * Google Codejam - Round 2
